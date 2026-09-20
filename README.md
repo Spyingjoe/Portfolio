@@ -64,7 +64,7 @@ Worked within Microsoft Fabric to complete data analysis and machine learning pr
 
 ### Projects
 
-#### 🏠 House Price Prediction
+#### House Price Prediction
 
 Built a Multiple Linear Regression model in Microsoft Fabric to predict house prices using property characteristics such as:
 
