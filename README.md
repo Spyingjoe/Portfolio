@@ -6,7 +6,7 @@ My training has covered data analysis, data visualisation, database querying, da
 
 ---
 
-## 🎓 Mission Ready – Level 4 Data Analytics
+## Mission Ready – Level 4 Data Analytics
 
 Level 4 focused on developing core data analytics and business intelligence skills.
 
@@ -41,7 +41,7 @@ Developed advanced Excel skills for analysing and reporting on business data, in
 
 ---
 
-## 🚀 Mission Ready – Level 5 Data Analytics
+## Mission Ready – Level 5 Data Analytics
 
 Level 5 expanded my technical data skills through practical work in **Microsoft Fabric**, using Python and cloud-based data tools.
 
@@ -82,7 +82,7 @@ The project covered the process from loading and understanding the dataset throu
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages & Analysis**
 - Python
